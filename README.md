@@ -1,6 +1,4 @@
-# IMDB_NLP
-
-Sentiment Classification 
+# Sentiment Classification 
 
 Use NLP techniques, based on Deep learning to create an improved Sentiment Classifier.
 
